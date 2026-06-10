@@ -16,7 +16,9 @@ The replication package allows full reconstruction of:
 - Confidence interval construction across all specifications
 - Sensitivity analysis across datasets and model pairings
 
-This repository contains two subfolders: one for MATLAB and one for Python. Each folder contains its own README file with software-specific instructions for reproducing the analyses.---
+This repository contains two subfolders: one for MATLAB and one for Python. Each folder contains its own README file with software-specific instructions for reproducing the analyses.
+
+---
 
 ## 2. Data Sources
 
